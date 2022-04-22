@@ -7,7 +7,7 @@ Aprendendo com os Desafios da DIO
 
 Links Uteis:
 
-[APRENDENDO PROGRAMAÇÃO DE GRAÇA, DO BASICO AO AVANCAÇADO](https://dio.me/sign-up?ref=ZA4Y31P7H0)
+[APRENDENDO PROGRAMAÇÃO DE GRAÇA, DO BÁSICO AO AVANCAÇADO](https://dio.me/sign-up?ref=ZA4Y31P7H0)
 
 [WIKIPEDIA SOBRE O GIT-HUB](https://pt.wikipedia.org/wiki/GitHub)
 
