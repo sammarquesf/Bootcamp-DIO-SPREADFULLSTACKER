@@ -1,0 +1,33 @@
+<html>
+
+	<head>
+		<title>My First Webpage Using PHP!</title>
+		
+		<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+		
+		<style type="text/css">
+			.linha {
+					font-weight: bold;
+					color: blue;
+					padding-left: 10px;
+					line-height: 50px;
+			}
+			</style>
+		</head>
+		
+	<body>
+	
+		<?php
+			for ( $i = 5 ; $i <= 22 ; $i++ ) { //5 meu mes de aniversário e 22 o dia do meu aniversário
+				print( "<span class=\"Linha\">Linha de número " . $i . "</span><br />");
+			}
+		?>
+	</body>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+			alert(" A Primeira Página em PHP Funcionou!");
+		});
+	</script>
+
+</html>
