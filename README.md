@@ -14,3 +14,11 @@ Links Uteis:
 [INICIANDO EM MARKDOWN](https://www.markdownguide.org/getting-started/)
 
 [MAIS SOBRE HTML E CSS](https://www.w3schools.com/html/html_css.asp)
+
+
+# ARQUIVOS E SEUS PERTENCENTES
+
+1- Minha Pagina(em construção)
+Pertencentes: Minha pagina.html / minha-pagina-style.css
+
+
